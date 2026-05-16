@@ -1,0 +1,99 @@
+# ─────────────────────────────────────────
+[SECTION] ADVANCED COGNITIVE CONFLICTS
+# ─────────────────────────────────────────
+
+[Q] 26|Q26.In a group discussion, what frustrates you the most?
+[OPT] A|People ignoring obvious logical inconsistencies.
+[SCORE] 5|0|0|1
+[OPT] B|People creating unnecessary emotional tension.
+[SCORE] 0|5|0|2
+[OPT] C|People refusing to consider new possibilities.
+[SCORE] 1|0|5|0
+[OPT] D|People constantly changing direction without stability.
+[SCORE] 0|0|0|5
+[OPT] E|People speaking confidently without understanding the issue deeply.
+[SCORE] 4|1|0|0
+
+[Q] 27|Q27.When learning something new, what naturally interests you first?
+[OPT] A|Understanding the hidden structure behind how it works.
+[SCORE] 5|0|0|0
+[OPT] B|Understanding how people interact with or use it.
+[SCORE] 0|5|0|0
+[OPT] C|Exploring unusual or unconventional ways to use it.
+[SCORE] 0|0|5|0
+[OPT] D|Finding the safest and most reliable method for using it.
+[SCORE] 0|0|0|5
+[OPT] E|Comparing it with systems or ideas I already know.
+[SCORE] 3|1|1|0
+
+[Q] 28|Q28.Which situation feels MOST mentally satisfying to you?
+[OPT] A|Discovering a pattern that other people overlooked.
+[SCORE] 5|0|0|0
+[OPT] B|Successfully handling a difficult social situation.
+[SCORE] 0|5|0|0
+[OPT] C|Entering an unfamiliar environment and adapting quickly.
+[SCORE] 0|0|5|0
+[OPT] D|Creating order in a chaotic situation.
+[SCORE] 0|0|0|5
+[OPT] E|Combining multiple ideas into a clearer understanding.
+[SCORE] 4|0|1|0
+
+[Q] 29|Q29.When plans suddenly collapse, what is your first instinct?
+[OPT] A|Analyze what caused the failure.
+[SCORE] 5|0|0|0
+[OPT] B|Focus on keeping everyone emotionally stable.
+[SCORE] 0|5|0|1
+[OPT] C|See it as an opportunity to try something different.
+[SCORE] 0|0|5|0
+[OPT] D|Restore structure and direction as quickly as possible.
+[SCORE] 0|0|0|5
+[OPT] E|Pause and observe before reacting immediately.
+[SCORE] 3|1|1|0
+
+[Q] 30|Q30.What kind of mistake bothers you the MOST?
+[OPT] A|Repeating the same flawed thinking pattern.
+[SCORE] 5|0|0|0
+[OPT] B|Hurting someone unnecessarily.
+[SCORE] 0|5|0|0
+[OPT] C|Missing an opportunity because of fear.
+[SCORE] 0|0|5|0
+[OPT] D|Creating instability through poor planning.
+[SCORE] 0|0|0|5
+[OPT] E|Ignoring warning signs that were visible earlier.
+[SCORE] 4|0|1|0
+
+[Q] 31|Q31.What do people most often rely on you for?
+[OPT] A|Seeing connections others missed.
+[SCORE] 5|0|0|0
+[OPT] B|Helping manage difficult interpersonal situations.
+[SCORE] 0|5|0|0
+[OPT] C|Pushing people beyond comfort zones.
+[SCORE] 0|0|5|0
+[OPT] D|Keeping things organized and stable.
+[SCORE] 0|0|0|5
+[OPT] E|Remaining calm when others overreact.
+[SCORE] 2|2|0|2
+
+[Q] 32|Q32.Which kind of environment drains you the fastest?
+[OPT] A|One filled with shallow or inconsistent thinking.
+[SCORE] 5|0|0|0
+[OPT] B|One filled with emotional hostility or conflict.
+[SCORE] 0|5|0|0
+[OPT] C|One that feels repetitive and restrictive.
+[SCORE] 0|0|5|0
+[OPT] D|One that lacks structure and predictability.
+[SCORE] 0|0|0|5
+[OPT] E|One where nobody seems curious about improvement.
+[SCORE] 3|1|1|0
+
+[Q] 33|Q33.When facing uncertainty, what instinct appears first?
+[OPT] A|Search for hidden patterns and signals.
+[SCORE] 5|0|0|0
+[OPT] B|Read the emotional state of the people involved.
+[SCORE] 0|5|0|0
+[OPT] C|Experiment and adapt while moving forward.
+[SCORE] 0|0|5|0
+[OPT] D|Seek stability and a predictable structure.
+[SCORE] 0|0|0|5
+[OPT] E|Wait quietly and observe before choosing a direction.
+[SCORE] 3|1|1|0
